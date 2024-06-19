@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-sections-LxmPO5xqKV)
-- Live Site URL: [Add live site URL here](https://thakeeb22.github.io/testimonials-grid-section/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-sections-LxmPO5xqKV)
+- Live Site URL: [Live Site URL](https://thakeeb22.github.io/testimonials-grid-section/)
 
 ## My process
 
