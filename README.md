@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-sections-LxmPO5xqKV)
+- Live Site URL: [Add live site URL here](https://thakeeb22.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -73,7 +73,7 @@ I hope to continue learning how to use css Grid and Flexbox to build responsive 
 
 ## Author
 
-- Website - [Muhammad Thakeeb Muhammad](https://www.your-site.com)
+- Website - [Muhammad Thakeeb Muhammad](https://thakeeb22.github.io/testimonials-grid-section/)
 - Frontend Mentor - [@Thakeeb22](https://www.frontendmentor.io/profile/Thakeeb22)
 - Twitter - [@MuhammadThakeeb](https://www.twitter.com/MuhammadThakeeb)
 
